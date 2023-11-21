@@ -36,7 +36,7 @@ This project aims to contribute to the understanding of how environmental issues
 
 ## Relevant literature
 
--Boudreaux, B. (2006). The representation of the environment in children’s literature. ScholarWorks@UNO. https://scholarworks.uno.edu/td/335 
--Monhardt, R., & Monhardt, L. (2000). Children’s Literature and Environmental Issues: Heart over Mind? Reading Horizons, 40(3), 2. https://eric.ed.gov/?id=EJ607848 
--O’Brien, K., & Stoner, D. K. (1987). Increasing environmental awareness through children’s literature. The Reading Teacher, 41(1), 14–19. 
--Sigler, C. (1994). Wonderland to Wasteland: Toward Historicizing environmental activism in Children’s literature. Children’s Literature Association Quarterly, 19(4), 148–153. https://doi.org/10.1353/chq.0.1011
+- Boudreaux, B. (2006). The representation of the environment in children’s literature. ScholarWorks@UNO. https://scholarworks.uno.edu/td/335 
+- Monhardt, R., & Monhardt, L. (2000). Children’s Literature and Environmental Issues: Heart over Mind? Reading Horizons, 40(3), 2. https://eric.ed.gov/?id=EJ607848 
+- O’Brien, K., & Stoner, D. K. (1987). Increasing environmental awareness through children’s literature. The Reading Teacher, 41(1), 14–19. 
+- Sigler, C. (1994). Wonderland to Wasteland: Toward Historicizing environmental activism in Children’s literature. Children’s Literature Association Quarterly, 19(4), 148–153. https://doi.org/10.1353/chq.0.1011
